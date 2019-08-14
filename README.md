@@ -22,7 +22,7 @@ We need the package **`express`**, **`mysql`** and **`pg`**.
 
 **Part2** Set up connection for the databases
 
-![Imgur](https://imgur.com/Yl8a2mV.png)
+![Imgur](https://i.imgur.com/wD0T23x.png)
 
 **Part3** Set up schema & table
 
@@ -31,3 +31,15 @@ We need the package **`express`**, **`mysql`** and **`pg`**.
 **Part4** Query & Insert
 
 ![Imgur](https://imgur.com/58ugZA5.png)
+
+**STEP4** **`node app.js`** start this project
+
+If the result are successful, you would see:
+
+[Imgur](https://i.imgur.com/rAdKpO2.png)
+
+**STEP5** Post-Result Check
+
+Login to your [pgAdmin](https://www.pgadmin.org/download/)
+
+Find the database you've set.
