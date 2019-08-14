@@ -36,7 +36,7 @@ We need the package **`express`**, **`mysql`** and **`pg`**.
 
 If the result are successful, you would see:
 
-[Imgur](https://i.imgur.com/rAdKpO2.png)
+![Imgur](https://i.imgur.com/rAdKpO2.png)
 
 **STEP5** Post-Result Check
 
