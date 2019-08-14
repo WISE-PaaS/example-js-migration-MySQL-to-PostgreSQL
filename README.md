@@ -43,3 +43,7 @@ If the result are successful, you would see:
 Login to your [pgAdmin](https://www.pgadmin.org/download/)
 
 Find the database you've set.
+
+Create a query to check if the data is in the database.
+
+![Imgur](https://i.imgur.com/BeaVqcK.png)
