@@ -26,6 +26,8 @@ We need the package **`express`**, **`mysql`** and **`pg`**.
 
 **Part3** Set up schema & table
 
+**NOTE** We set our column type to **JSON** and give it a serial ID.
+
 ![Imgur](https://imgur.com/LUP5IAy.png)
 
 **Part4** Query & Insert
